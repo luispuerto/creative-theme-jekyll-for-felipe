@@ -180,6 +180,10 @@ header {
                 font-size: 16px;
                 margin-bottom: 50px;
             }
+            img.emoji {
+                width: 3em; 
+                height: 3em; 
+            }
         }
     }
     @media (min-width: 768px) {
