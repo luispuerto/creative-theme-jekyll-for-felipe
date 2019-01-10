@@ -61,7 +61,8 @@ A ver que me pueda venir a la mente...
 
 - Que si quieres aprender un poco de html a lo mejor [este](https://lab.github.com/githubtraining/introduction-to-html) curso puede estar bien. Pero yo nunca he hecho ninguno, suelo ir aprendiendo sobre la marcha. Aunque a lo mejor me miro el que te he mandado. 
 - Lo mismo con [markdown](https://lab.github.com/githubtraining/communicating-using-markdown). 
-- Jekyll tiene algo adicional que es lo que le permite que tenga plantillas y no repetir información, es [liquid template system or markup](https://shopify.github.io/liquid/). Básicamente es lo que permite a jekyll hacer algunas de las acciones tipo `for`[^6] y cosas por el estilo... le da esteroides al html. Te permite por ejemplo tener una parte de la web en un archivo html —por ejemplo el footer o pie— y que se repita en todas las paginas, sin tener que repetir la información. ​
+- Jekyll tiene algo adicional que es lo que le permite que tenga plantillas y no repetir información, es [liquid template system or markup](https://shopify.github.io/liquid/). Básicamente es lo que permite a jekyll hacer algunas de las acciones tipo `for`[^6] y cosas por el estilo... le da esteroides al html. Te permite por ejemplo tener una parte de la web en un archivo html —por ejemplo el footer o pie— y que se repita en todas las paginas, sin tener que repetir la información. ​
+- Otra de las cosas que vas a usar es CSS y su primo el SCSS, yo es algo que he aprendido sobre la marcha... seguro que puedes encontrar algún curso. Algunas cosas me han llevado un rato dar con ellas, pero vamos... no es que sea muy compleja la cosa. 
 
 ------
 
